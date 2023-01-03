@@ -1,0 +1,8 @@
+C:\Users\CASPER\OneDrive\Masaüstü\SayıyıYazıyaCevirme\SayıyıYazıyaCevirme\bin\Debug\SayıyıYazıyaCevirme.exe.config
+C:\Users\CASPER\OneDrive\Masaüstü\SayıyıYazıyaCevirme\SayıyıYazıyaCevirme\bin\Debug\SayıyıYazıyaCevirme.exe
+C:\Users\CASPER\OneDrive\Masaüstü\SayıyıYazıyaCevirme\SayıyıYazıyaCevirme\bin\Debug\SayıyıYazıyaCevirme.pdb
+C:\Users\CASPER\OneDrive\Masaüstü\SayıyıYazıyaCevirme\SayıyıYazıyaCevirme\obj\Debug\SayıyıYazıyaCevirme.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive\Masaüstü\SayıyıYazıyaCevirme\SayıyıYazıyaCevirme\obj\Debug\SayıyıYazıyaCevirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\OneDrive\Masaüstü\SayıyıYazıyaCevirme\SayıyıYazıyaCevirme\obj\Debug\SayıyıYazıyaCevirme.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive\Masaüstü\SayıyıYazıyaCevirme\SayıyıYazıyaCevirme\obj\Debug\SayıyıYazıyaCevirme.exe
+C:\Users\CASPER\OneDrive\Masaüstü\SayıyıYazıyaCevirme\SayıyıYazıyaCevirme\obj\Debug\SayıyıYazıyaCevirme.pdb
